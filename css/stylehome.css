@@ -1,0 +1,45 @@
+div{
+    margin: 0;
+    width: f%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    text-align: center;
+    font-weight: auto;
+    font-size:xx-large;
+    background-color: #27b6cc;
+    color:  white;
+    padding: 40px;
+}
+
+button {
+    margin: 60px;
+    border-radius: 5%;
+   
+   
+  
+ border-image:repeat ;
+
+    
+    
+
+}
+
+button :hover{
+
+    cursor: pointer;
+    border-color: aquamarine;
+    margin: 1%;
+    border-radius: 5%;
+    
+}
